@@ -108,7 +108,3 @@
 - **前端 (Vercel)** :[https://medical-training-demo.vercel.app/](https://www.google.com/search?q=https://medical-training-demo.vercel.app/)
 - **渲染（渲染）**：[https://medical-training-demo-backend.onrender.com](https://medical-training-demo-backend.onrender.com/)
 
-```
-
-这份 README 满足你的需求吗？要不要我顺便教你，怎么在 README 里面加一两张你本地跑起来的**系统截图**，让这份文档看起来更专业、更高级？
-```
